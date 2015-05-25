@@ -1,0 +1,1 @@
+singleplayer::server,shout,fly,password,creative,bring,kick,teleport,ban,noclip,privs,fast,basic_privs,rollback,give,sign_editor,settime,interact:1432516904
